@@ -1,0 +1,13 @@
+html,
+body {
+	background: #4f7cac;
+  height: 100vh;
+}
+label {
+    font-weight: 800;
+    color: #555;
+}
+/* body {
+  background: rgba(207, 200, 200, 0.26);
+  height: 100vh;
+} */
